@@ -12,7 +12,7 @@ By Tai Nguyen - DH 150
 
 
 
-![Jour Home Page After Journaling](Screenshot(7).png)
+![Jour Home Page After Journaling](Screenshot (7).png)
 # Visibility of system status: 
 *Does the user always have a good idea of their progress or next step?*
 | Comments     | Severity Rating |
