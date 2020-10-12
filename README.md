@@ -8,7 +8,7 @@ By Tai Nguyen - DH 150
 [Jour](https://jour.com/) is an interactive journal focused on improving mindfulness, mental health, and sleep. This goal is achieved through daily check ins, questions, and other interactive journaling. 
 
 
-[Link](url) and ![Image](src)
+![Jour Home Page](iphone-preview@2x.png)
 
 | Comments     | Severity Rating |
 | ----------- | ----------- |
