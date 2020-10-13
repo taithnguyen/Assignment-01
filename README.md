@@ -8,7 +8,7 @@ By Tai Nguyen - DH 150
 [Jour](https://jour.com/) is an interactive journal focused on improving mindfulness, mental health, and sleep. This goal is achieved through daily check ins, questions, and other interactive journaling. 
 
 
-![Jour Home Page](iphone-preview@2x.png)
+![Jour Home Page](Jour.png)
 # Overall Evaluation
 Jour is a well designed app that both benefits and suffers from its simplicity. The easy and basic design allows for easy user interaction but more information and direction is needed to push users into utilizing the app to its fullest. 
 
